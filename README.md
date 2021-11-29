@@ -18,3 +18,7 @@ When there is a winner log to the console
 [Frank Smith] won the battle with health x28
 
 The program should run when calling start() function in the console.
+
+
+1. npm install
+2. node index.js
