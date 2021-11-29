@@ -1,4 +1,4 @@
-##Asynchronous Rome Battle
+## Asynchronous Rome Battle
 
 There are X gladiators with the following properties
 * Health - 80-100 (with step=1)
